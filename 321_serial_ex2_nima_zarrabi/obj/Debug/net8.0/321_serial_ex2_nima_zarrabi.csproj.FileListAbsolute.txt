@@ -1,0 +1,14 @@
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\bin\Debug\net8.0\321_serial_ex2_nima_zarrabi.exe
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\bin\Debug\net8.0\321_serial_ex2_nima_zarrabi.deps.json
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\bin\Debug\net8.0\321_serial_ex2_nima_zarrabi.runtimeconfig.json
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\bin\Debug\net8.0\321_serial_ex2_nima_zarrabi.dll
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\bin\Debug\net8.0\321_serial_ex2_nima_zarrabi.pdb
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\obj\Debug\net8.0\321_serial_ex2_nima_zarrabi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\obj\Debug\net8.0\321_serial_ex2_nima_zarrabi.AssemblyInfoInputs.cache
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\obj\Debug\net8.0\321_serial_ex2_nima_zarrabi.AssemblyInfo.cs
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\obj\Debug\net8.0\321_serial_ex2_nima_zarrabi.csproj.CoreCompileInputs.cache
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\obj\Debug\net8.0\321_serial_ex2_nima_zarrabi.dll
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\obj\Debug\net8.0\refint\321_serial_ex2_nima_zarrabi.dll
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\obj\Debug\net8.0\321_serial_ex2_nima_zarrabi.pdb
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\obj\Debug\net8.0\321_serial_ex2_nima_zarrabi.genruntimeconfig.cache
+C:\Users\pu78ifh\Desktop\I321-Prog_distrib_nima_zarrabi\321_serial_ex2_nima_zarrabi\obj\Debug\net8.0\ref\321_serial_ex2_nima_zarrabi.dll

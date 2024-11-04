@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "321_serial_ex2_nima_zarrabi/1.0.0": {
+        "runtime": {
+          "321_serial_ex2_nima_zarrabi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "321_serial_ex2_nima_zarrabi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

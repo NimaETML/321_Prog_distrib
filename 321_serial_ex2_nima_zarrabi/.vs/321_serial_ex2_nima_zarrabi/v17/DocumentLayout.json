@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pu78ifh\\Desktop\\I321-Prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E25CBA7-0A04-4C8D-B9F5-9C433F608C95}|321_serial_ex2_nima_zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\i321-prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E25CBA7-0A04-4C8D-B9F5-9C433F608C95}|321_serial_ex2_nima_zarrabi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E25CBA7-0A04-4C8D-B9F5-9C433F608C95}|321_serial_ex2_nima_zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\i321-prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E25CBA7-0A04-4C8D-B9F5-9C433F608C95}|321_serial_ex2_nima_zarrabi.csproj|solutionrelative:episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E25CBA7-0A04-4C8D-B9F5-9C433F608C95}|321_serial_ex2_nima_zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\i321-prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E25CBA7-0A04-4C8D-B9F5-9C433F608C95}|321_serial_ex2_nima_zarrabi.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E25CBA7-0A04-4C8D-B9F5-9C433F608C95}|321_serial_ex2_nima_zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\i321-prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E25CBA7-0A04-4C8D-B9F5-9C433F608C95}|321_serial_ex2_nima_zarrabi.csproj|solutionrelative:actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Episode.cs",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\I321-Prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\Episode.cs",
+              "RelativeDocumentMoniker": "Episode.cs",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\I321-Prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\Episode.cs",
+              "RelativeToolTip": "Episode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:54:02.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\I321-Prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\Actor.cs",
+              "RelativeDocumentMoniker": "Actor.cs",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\I321-Prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\Actor.cs",
+              "RelativeToolTip": "Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:48:35.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\I321-Prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\I321-Prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:48:10.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\I321-Prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\I321-Prog_distrib_nima_zarrabi\\321_serial_ex2_nima_zarrabi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:45:55.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
